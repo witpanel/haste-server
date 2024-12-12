@@ -5,7 +5,7 @@
 
   "keyLength": 10,
 
-  "maxLength": 400000,
+  "maxLength": 5242880,
 
   "staticMaxAge": 86400,
 
